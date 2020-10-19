@@ -1,0 +1,5 @@
+
+asquid:UselessImportCheck"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8»ÁÈÃç-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎµÿÓ8ùñ–Ãç-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8»ÁÈÃç-

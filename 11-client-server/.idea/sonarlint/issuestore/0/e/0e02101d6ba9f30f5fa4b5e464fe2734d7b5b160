@@ -1,0 +1,6 @@
+
+_squid:UselessImportCheck
+"4Remove this unused import 'java.util.logging.Level'.(…µÛ¶8ÍˆÇç-
+Isquid:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ8êÖÌÆç-
+Esquid:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ü¾ÑÆç-
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÍˆÇç-

@@ -1,0 +1,6 @@
+
+squid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£Åºøÿÿÿÿ
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ¹Å5
+wsquid:S1450"YRemove the "resolution" field and declare it as a local variable in the relevant methods.(ùÉÈæ8Ğ¦¦ğÕ-
+Lsquid:S1068".Remove this unused "resolution" private field.(ùÉÈæ8Ğ¦¦ğÕ-

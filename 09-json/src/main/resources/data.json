@@ -1,0 +1,96 @@
+{
+  "name": "Cheese (Gouda)",
+  "price": 3.99,
+  "inStock": true,
+  "vat": 6,
+  "cat" : {
+    "name" : "food",
+    "products" : [
+      {
+        "name": "Cheese (Gouda)",
+        "price": 3.99,
+        "inStock": true,
+        "vat": 6,
+        "cat" : {
+          "name" : "food",
+          "products" : [
+            {
+              "name": "Cheese (Gouda)",
+              "price": 3.99,
+              "inStock": true,
+              "vat": 6,
+              "cat" : {
+                "name" : "food",
+                "products" : [
+                  {
+                    "name": "Cheese (Gouda)",
+                    "price": 3.99,
+                    "inStock": true,
+                    "vat": 6,
+                    "cat" : {
+                      "name" : "food",
+                      "products" : [
+                        {
+                          "name": "Cheese (Gouda)",
+                          "price": 3.99,
+                          "inStock": true,
+                          "vat": 6,
+                          "cat" : {
+                            "name" : "food",
+                            "products" : [
+                              {
+                                "name": "Cheese (Gouda)",
+                                "price": 3.99,
+                                "inStock": true,
+                                "vat": 6,
+                                "cat" : {
+                                  "name" : "food",
+                                  "products" : [
+                                    {
+                                      "name": "Cheese (Gouda)",
+                                      "price": 3.99,
+                                      "inStock": true,
+                                      "vat": 6,
+                                      "cat" : {
+                                        "name" : "food",
+                                        "products" : [
+                                          {
+                                            "name": "Cheese (Gouda)",
+                                            "price": 3.99,
+                                            "inStock": true,
+                                            "vat": 6,
+                                            "cat" : {
+                                              "name" : "food",
+                                              "products" : [
+
+                                              ]
+                                            }
+                                          }
+
+                                        ]
+                                      }
+                                    }
+
+                                  ]
+                                }
+                              }
+
+                            ]
+                          }
+                        }
+
+                      ]
+                    }
+                  }
+
+                ]
+              }
+            }
+
+          ]
+        }
+      }
+
+    ]
+  }
+}

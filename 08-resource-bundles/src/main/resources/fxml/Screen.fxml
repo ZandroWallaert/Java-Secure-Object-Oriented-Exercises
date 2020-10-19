@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="fx.ScreenController"
+            prefHeight="400.0" prefWidth="600.0">
+
+    <Label text="%screen.label.title"/>
+    <Separator/>
+    <Label text="%screen.label.overview"/>
+    <ListView fx:id="items"/>
+    <Separator/>
+    <Label text="%screen.label.add"/>
+    <GridPane vgap="5" hgap="10">
+        <Label text="%screen.label.name" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+        <TextField fx:id="name" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+        <Label text="%screen.label.age" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+        <TextField fx:id="age" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+        <Label text="%screen.label.sex" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+        <ComboBox fx:id="sex" promptText="%screen.combo.sex.prompt" GridPane.rowIndex="2" GridPane.columnIndex="1">
+        </ComboBox>
+    </GridPane>
+    <Label fx:id="error" />
+    <Button text="%screen.button.add" onAction="#add"/>
+    <Separator/>
+
+</VBox>
